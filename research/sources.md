@@ -10,5 +10,5 @@
 6. Lily Ray
 7. Bernard Huang
 8. Ryan Law
-9. Ross Simmonds
+9. Gaetano Dinardi
 10. Aleyda Solis
