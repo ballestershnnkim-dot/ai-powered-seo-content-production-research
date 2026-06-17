@@ -1,4 +1,4 @@
-# Video Transcript
+# Eric Siu Video Transcript
 
 URL: https://www.youtube.com/watch?v=PmKPtCUZlCE
 
