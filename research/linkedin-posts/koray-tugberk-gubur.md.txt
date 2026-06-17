@@ -1,0 +1,140 @@
+# Koray Tuğberk GÜBÜR
+
+## Post 1
+
+URL:
+https://www.linkedin.com/posts/koray-tugberk-gubur_a-luxury-travel-brands-last-6-months-of-activity-7468434461064441856-vaxZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfvC3QByMSFwF4uqMVlwpFxOXXLkQBinz4
+
+Date:
+1 week ago
+
+Content:
+
+A luxury travel brand’s last 6 months of SEO results:
+
+
+
+Total clicks: +46.7%
+
+24K vs 16.4K
+
+Total impressions: +123.7%
+
+5.26M vs 2.35M
+
+
+
+Average CTR: -28.6%
+
+0.5% vs 0.7%
+
+Average position: +58.2% improvement
+
+9.4 vs 22.5
+
+
+
+This is the 3rd travel industry project we are sharing, and it focuses on a highly niche-specific variation of the travel market.
+
+The company’s main obstacle is competing against highly authoritative provider brands, while large aggregators leverage forum and UGC content with limited visual semantics.
+
+
+
+In this type of market, the website still has to rank for commercial terms.
+
+Thus, we heavily focused on the informational segment of the topical map and used it to support the commercial sections through contextual internal linking.
+
+
+
+During the project, no backlink-related progress was implemented.
+
+
+
+According to Microsoft Bing data, the website received over 500,000 impressions from AI search features, along with 28,000 citations.
+
+
+
+Let’s use “safari” as a replacement example for the actual industry.
+
+
+
+If the central entity is “safari,” you need to cover all possible attributes and relational contexts around it, such as:
+
+
+
+Safari + vaccines
+
+Safari + luggage
+
+Safari + lodge types
+
+Safari + routes
+
+Safari + seasons
+
+Safari + safety
+
+Safari + itineraries
+
+Safari + local regions
+
+Safari + travel requirements
+
+
+
+All possible predicates and relations around the safari context should be organized as a connected content network.
+
+
+
+Commercial internal links should point to the review pages, main provider pages, itineraries, routes, and engagement-focused sections.
+
+
+
+But commercial pages also need the right visual elements, comparison functions, trust signals, and page-level interaction patterns.
+
+
+
+A commercial page can rank better temporarily, but it won’t always sustain long-term rankings if the necessary visual and functional elements are missing.
+
+The actual subject of the project is not safari. Safari is only used here as a replacement to explain the methodology.
+
+
+
+## Post 2
+
+URL:
+hhttps://www.linkedin.com/posts/koray-tugberk-gubur_good-news-for-seos-google-is-bringing-generative-activity-7467874512357797888-FXPW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfvC3QByMSFwF4uqMVlwpFxOXXLkQBinz4
+
+Date:
+1 week ago
+
+Content:
+
+Good news for SEOs: Google is bringing Generative AI Performance reporting to Google Search Console.
+
+At first, it will mainly help us track AI appearances and impressions, but this is already a meaningful step forward.
+
+Why?
+
+Because we can finally start separating traditional web-result impressions from AI-result impressions more clearly.
+
+For Holistic SEOs, this opens many new analytical layers:
+
+Compare crawl stats and specific user agents with AI appearances.
+
+Compare sentence structures, content freshness, and source responsiveness against AI visibility.
+
+Compare AI performance with the average position of commercial queries.
+
+Compare free-tool query segments with AI appearances to understand whether helpful utility-based assets support broader brand and topical relevance.
+
+For now, the report may not feel fully satisfying because Google is mostly giving impression-level data.
+
+But even with this limitation, there are many new metrics, patterns, and signals that a Holistic SEO can create from it.
+
+AI visibility is not only about being mentioned.
+
+It is about understanding why a source is selected, when it is selected, and which semantic, technical, and behavioral signals support that selection.
+
+
+
