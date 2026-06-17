@@ -1,0 +1,49 @@
+# Gaetano Dinardi
+
+## Post 
+
+URL:
+https://www.linkedin.com/posts/officialg_nearly-all-of-the-seogeo-problems-i-am-working-activity-7472752745125691392-nPQa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfvC3QByMSFwF4uqMVlwpFxOXXLkQBinz4
+
+Date:
+1 day ago
+
+Content:
+
+Nearly all of the SEO/GEO problems I am working on today are category misalignment and mismatch problems... not ticky-tacky "optimization" tricks or GEO hacks. 
+
+Here is the problem:
+
+B2B SaaS brand that's been around for 10+ years has a digital footprint in a "legacy" category that's now unsexy... but it's still their breadwinner.
+
+And now there's a new thing they need to become known for:
+
+Customer Service CRM ➡️ Intelligent CX Platform
+
+Low Code Platform ➡️ Agentic Systems Platform
+
+CMMS ➡️ Intelligent Maintenance Platform
+
+LMS ➡️ Skills Intelligence Platform
+
+Product Analytics ➡️ Product Intelligence Platform
+
+Intranet Portal ➡️ Employee Experience Platform
+
+etc...
+
+I've seen companies setup Profound with a massive list of LLM prompt tracking. The dashboards show zero visibility and they wonder why. 
+
+The problem is that AI retrieval often follows entity neighborhoods. 
+
+So when SaaS brands evolve into new positioning, they need a FULL BLOWN category attack plan with 50% of the effort allocated to on-site content (product pages, feature pages, brand comparisons, why we're different, etc). and the other 50% allocated to offsite: analyst relations, guest posts, review site optimization, YouTube, inclusion on Forrester / Gartner reports for the new category, etc. 
+
+Instead, they launch one new product page with a press release and expect magic to happen. It just doesn't work. It's not enough. 
+
+ChatGPT sub-queries are heavily branded and category dependent. You can reverse engineer any bottom of funnel category prompt and see for yourself.
+
+Inspect element, navigate to the network tab and check the sub-queries and safe URLs. No amount of tactical work can get your brand included in this consideration set. 
+
+This is at least 80% of the work I am doing today. It is all deeply strategic work and almost zero tactical work. 
+
+What you see going viral on LinkedIn is not even close to what's really happening behind the scenes at big companies.
