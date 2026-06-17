@@ -1,4 +1,4 @@
-# Video Transcript
+# Ryan Law Video Transcript
 
 URL: https://www.youtube.com/watch?v=mL1W1SMtTT4&t=302s
 
