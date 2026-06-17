@@ -1,4 +1,4 @@
-# Video Transcript
+# Nathan Gotch Video Transcript
 
 URL: https://www.youtube.com/watch?v=cmCafFbC1A4
 
