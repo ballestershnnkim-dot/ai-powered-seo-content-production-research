@@ -1,0 +1,27 @@
+# Bernard Huang
+
+## Post 
+
+URL:
+https://www.linkedin.com/posts/bernardjhuang_a-finding-from-our-aeo-experiment-has-changed-activity-7458580404170797056-nbBQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfvC3QByMSFwF4uqMVlwpFxOXXLkQBinz4
+
+Date:
+1 month ago
+
+Content:
+
+A finding from our AEO experiment has changed the way we think about prompt selection.
+
+When we ran our target prompts through Clearscope's Prompt Tracking, we noticed something in the fan-out data that wasn't obvious at first: the frequency percentage next to each AI web search isn't just telling you how popular that search is. It's telling you how stable it is.
+
+Here's what we learned.
+
+Prompts with fan-out queries above 30% frequency are strong signals. That means Gemini is consistently reaching for that search to construct its answer… week after week, run after run. Those are the queries worth building content against, because they're likely to stay relevant.
+
+Anything below 15%? The LLMs are essentially spitballing. The responses are so variable that the same prompt might produce completely different web searches next time you run it. There's so much fluctuation that even if you rank for those queries today, the AI may not be pulling them tomorrow.
+
+The practical implication: don't chase low-frequency fan-out queries. They're a sign that the AI hasn't settled on a consistent way to answer that prompt yet. Wait until the LLMs simmer down and focus your content investment on the queries the AI is reaching for reliably.
+
+This is one of those things you can only learn by running the experiment yourself.
+
+More findings coming as we go.
