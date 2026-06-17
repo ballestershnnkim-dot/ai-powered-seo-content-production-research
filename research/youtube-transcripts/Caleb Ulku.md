@@ -1,4 +1,4 @@
-# Video Transcript
+# Caleb Ulku Video Transcript
 
 URL: https://www.youtube.com/watch?v=Yp03WwNrk9c&t=372s
 
