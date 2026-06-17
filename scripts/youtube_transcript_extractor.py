@@ -2,8 +2,8 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import re
 
 video_urls = [
-    "https://www.youtube.com/watch?v=fHuomy6gAOA",
-    "https://www.youtube.com/watch?v=EItVZ5W5FUc"
+    "https://www.youtube.com/watch?v=2htSIT0HLjs&t=323s",
+    
 ]
 
 api = YouTubeTranscriptApi()
