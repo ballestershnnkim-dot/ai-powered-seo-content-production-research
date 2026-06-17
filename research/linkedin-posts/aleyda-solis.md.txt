@@ -1,0 +1,32 @@
+# Aleyda Solis
+
+## Post 
+
+URL:
+https://www.linkedin.com/posts/aleyda_how-to-build-a-representative-ai-search-activity-7469723521947131905-6DVK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfvC3QByMSFwF4uqMVlwpFxOXXLkQBinz4
+
+Date:
+1 week ago
+
+Content:
+
+📊 How to Build a Representative AI Search Prompt Library for Better AI Visibility Measurement 👇 
+
+One of the biggest mistakes I see with AI search tracking is using a non-representative prompt library to assess a brand’s AI search visibility. This can give you an inaccurate view of your AI search presence. 
+
+A representative AI search prompt library should not be a random list of prompts or a tool’s default prompt set. It should be a structured sample of the AI-assisted journeys that matter to your business, covering the right products, audiences, markets, journey stages, competitors and buyer constraints. 
+
+The goal is to measure the right prompts well enough to identify patterns, diagnose gaps and guide optimization actions.
+
+This guide will help you do exactly that and focuses on the input layer of AI Search measurement: the prompt set.  It covers:
+
+* What an AI search prompt library is.
+* The biggest mistakes to avoid.
+* Why representative doesn’t mean exhaustive.
+* How to define what the prompt library needs to represent.
+* How to build, group and localize prompts.
+* How to measure AI search visibility defensibly.
+* How to turn prompt findings into optimization actions.
+* What a final prompt library can look like.
+
+Read it here: https://lnkd.in/eaPT7xvS
