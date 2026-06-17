@@ -1,0 +1,32 @@
+# Caleb Ulku
+
+## Post 1
+
+URL:
+https://www.linkedin.com/posts/calebulku_everyones-panicking-about-chatgpt-stealing-activity-7428079300760805377-K815?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfvC3QByMSFwF4uqMVlwpFxOXXLkQBinz4
+
+Date:
+4 months ago
+
+Content:
+
+Everyone’s panicking about ChatGPT stealing their traffic
+I pulled the data from my clients this week
+ChatGPT sends a rounding error compared to Google
+
+800 million people use ChatGPT every week. The headlines make it sound like Google is finished. Entrepreneurs are restructuring their entire marketing strategy around “AI search optimization” because some LinkedIn guru told them Google is dead
+Similarweb tracked this at scale. Google had 83.8 billion visits in a single month. ChatGPT had 5.8 billion. And 95% of ChatGPT users also visited Google during the same period
+People aren’t replacing Google with ChatGPT. They’re using ChatGPT and then going to Google to verify what it said
+Ahrefs built a live tracker comparing AI platform traffic to Google. As of January 2026, ChatGPT’s share of total search referral traffic is 0.23%. Google’s share is stable. Bing still sends more traffic to most websites than ChatGPT does
+I see this pattern constantly with business owners. They read a headline about ChatGPT hitting 800 million users and assume that means 800 million people stopped using Google. Those are not the same thing. Most ChatGPT usage isn’t even search. OpenAI’s own study of 1.5 million conversations found that 49% of usage is asking questions, 40% is work tasks like writing and coding, and only a fraction involves the kind of local discovery that would replace a Google search
+A Momentic study found something interesting about the traffic ChatGPT does send. The average ChatGPT user clicks 1.4 external links per visit. The average Google user clicks 0.6. ChatGPT is actually better at sending people to websites on a per user basis
+But 1.4 clicks from a small audience is still a small number
+The real story nobody wants to talk about is what Google is doing to its own results
+Google’s AI Overviews now reduce organic click through rates when they appear. Pew Research found users click 47% less when AI Overviews are present. 26% of users end their browsing session entirely after reading Google’s AI generated answer
+Google isn’t losing traffic to ChatGPT. Google is keeping more traffic for itself
+That’s a fundamentally different problem than the one most entrepreneurs think they have
+If you’re an entrepreneur restructuring your business around “ChatGPT optimization” right now, you’re allocating resources against a platform that represents a fraction of a percent of referral traffic. Meanwhile Google, the platform that still sends the overwhelming majority of your leads, is actively changing how it displays those results
+The businesses making money right now aren’t the ones chasing every new AI platform
+They’re the ones who understand that Google still controls the game and are adapting to how Google is changing the rules
+That’s not as exciting as “AI is taking over everything”
+But it’s what the data actually shows
