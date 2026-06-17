@@ -1,4 +1,4 @@
-# Video Transcript
+# Gaetano Dinardi Video Transcript
 
 URL: https://www.youtube.com/watch?v=16aSswhc4PM
 
